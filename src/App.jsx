@@ -10,7 +10,8 @@ function App() {
 
   return (
     <>
-    <h1>hello</h1>
+          <center>
+      <h1>MY APP</h1></center>
       <BrowserRouter>
       <Routes>
          <Route path='/' element={<Home/>}/>
