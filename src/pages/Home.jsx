@@ -9,7 +9,7 @@ const Home = () => {
   <center>
     <div>
     <Header/>
-    <Link to='/createpostform'>Make Post</Link>
+    <Link to='/createpostform'><p>Click to Make Post</p></Link>
     <AdventureFeed/>
     </div></center>
   )
