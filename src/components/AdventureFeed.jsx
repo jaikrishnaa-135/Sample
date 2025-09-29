@@ -4,7 +4,7 @@ import AdventureCard from './AdventureCard'
 const AdventureFeed = () => {
   return (
     <div>
-        <h2>AdventureFeed</h2>
+        <h2></h2>
         <AdventureCard/>
     </div>
   )

@@ -6,12 +6,12 @@ import AdventureFeed from '../components/AdventureFeed'
 
 const Home = () => {
   return (
-  
+  <center>
     <div>
     <Header/>
     <Link to='/createpostform'>Make Post</Link>
     <AdventureFeed/>
-    </div>
+    </div></center>
   )
 }
 

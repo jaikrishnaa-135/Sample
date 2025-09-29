@@ -5,7 +5,8 @@ const Header = () => {
   return (
     <>
     <div>
-      <h1>My App</h1></div>
+      <center>
+      <h1>My App</h1></center></div>
     
     </>
   )
